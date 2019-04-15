@@ -1,8 +1,8 @@
 # Humidity_Temperature
-Code to measure humidity and temperature
+Code to measure and display the humidity and the temperature
 
 
-I created the code for different sensors,  platforms and sometimes in multiple languages or frameworks, that is the reason why I use the following path structure to separate  them in this repository: `sensor_type/hardware_platform/language_framework`
+I plan to create source code for different sensors,  platforms and sometimes in multiple languages or frameworks. That is the reason why I use the following path structure to separate  them in this repository: `sensor_type/hardware_platform/language_framework`
 
 sensor_type
    * `DHT22`
