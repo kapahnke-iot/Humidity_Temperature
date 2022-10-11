@@ -10,7 +10,8 @@ sensor_type
 hardware_platform
    * pi
    * arduino
-   * `esp8266`
+      * `esp8266`
+      * esp32
    * photon 
  
  language_framework
